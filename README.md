@@ -29,3 +29,6 @@ or(c,d[1],d[3],d[5],d[7]);
 endmodule
 ```
 ![image](https://github.com/Gowtham-raj7/PRIORITY_ENCODER/assets/164861308/954b2962-f475-4595-8ae0-4c4accb06c21)
+# result
+Hence Priority Encoder is verified
+
