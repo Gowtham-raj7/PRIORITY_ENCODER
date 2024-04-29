@@ -18,7 +18,7 @@ STEP:7 Select the Implementation in the Sources Window and select the required f
 ![image](https://github.com/RESMIRNAIR/PRIORITY_ENCODER/assets/154305926/3da43bab-6ee6-456f-858f-4553d3623f8c)
 ![image](https://github.com/Gowtham-raj7/PRIORITY_ENCODER/assets/164861308/2222c8ca-198c-4284-b247-d549e73d45ac)
 # VERILOG CODE:
-``
+```
 module encoder(d,a,b,c);
 input [7:0]d;
 output a,b,c;
