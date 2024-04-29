@@ -16,6 +16,7 @@ STEP:7 Select the Implementation in the Sources Window and select the required f
 ![image](https://github.com/RESMIRNAIR/PRIORITY_ENCODER/assets/154305926/016b3b20-1d4d-48fd-9012-a2c725b822db)
 # Truth Table
 ![image](https://github.com/RESMIRNAIR/PRIORITY_ENCODER/assets/154305926/3da43bab-6ee6-456f-858f-4553d3623f8c)
+LOGIC DIAGRAM:
 ![image](https://github.com/Gowtham-raj7/PRIORITY_ENCODER/assets/164861308/2222c8ca-198c-4284-b247-d549e73d45ac)
 # VERILOG CODE:
 ```
